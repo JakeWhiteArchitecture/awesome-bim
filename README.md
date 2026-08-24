@@ -55,6 +55,9 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 
 - [Xbim toolkit](https://docs.xbim.net/index.html) - The xbim toolkit is a .NET open-source software development BIM toolkit that supports the BuildingSmart Data Model (aka the Industry Foundation Classes IFC).Xbim allows .NET developers to read, create and view Building Information (BIM) Models in the IFC format. There is full support for geometric, topological operations and visualisation. In addition xbim supports bi-directional translation between IFC and COBie formats. Core libraries for data manipulation are all written in C#, core of geometry engine is written in C++. [![GitHub stars](https://img.shields.io/github/stars/xBimTeam/XbimEssentials)](https://github.com/xBimTeam/XbimEssentials/stargazers)[![GitHub forks](https://img.shields.io/github/forks/xBimTeam/XbimEssentials)](https://github.com/xBimTeam/XbimEssentials/network)![GitHub contributors](https://img.shields.io/github/contributors/xBimTeam/XbimEssentials)![GitHub last commit](https://img.shields.io/github/last-commit/xBimTeam/XbimEssentials)[![GitHub license](https://img.shields.io/github/license/xBimTeam/XbimEssentials)](https://github.com/xBimTeam/XbimEssentials/blob/master/LICENSE)
 
+- [StairSmith](https://github.com/JakeWhiteArchitecture/stairsmith) - A parametric staircase designer with 3D preview, with IFC4.3 and DXF export options. [Try it live](https://jakewhitearchitecture.com/stairsmith/)
+  
+- [SunForm](https://github.com/JakeWhiteArchitecture/sunform) - Solar shading analysis tool that runs on IFC models in the browser. [Try it live](https://jakewhitearchitecture.com/sunform/)
 ---
 
 ## Front-end Framework
